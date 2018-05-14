@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "KaFT-20180516",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "zeam-vm",
+    "githubRepository": "KaFT-20180516"
+  }
+}
